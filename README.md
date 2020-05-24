@@ -1,2 +1,5 @@
-# Simple-python-game
-This is a simple python game made in 2 minutes.
+#Simple-python-game
+
+This is a very simple Python game made in under 2 minutes. I'm very new to programming so don't expect much.
+
+- Utility
